@@ -1,2 +1,2 @@
 # farcaster
-Set to development tools and applications built for Farcaster
+Set of development tools and applications built for Farcaster
